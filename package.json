@@ -3,9 +3,9 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www",
-    "prebackendtests": "npm install",
-    "test": "mocha backendTests"
+    "start": "node ./bin/www"
+    // "prebackendtests": "npm install",
+    // "test": "mocha backendTests"
   },
   "main": "./bin/www",
   "dependencies": {
